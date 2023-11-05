@@ -1,5 +1,4 @@
 # DefineIt-Dictionary
-# DefineIt-Dictionary-
 API Based Dictionary Project 
 ### Responsive Dictionary Website
 
